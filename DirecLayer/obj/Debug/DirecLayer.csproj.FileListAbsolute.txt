@@ -1,0 +1,11 @@
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\bin\Debug\DirecLayer.dll
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\bin\Debug\DirecLayer.pdb
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\obj\Debug\DirecLayer.csproj.AssemblyReference.cache
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\obj\Debug\DirecLayer.csproj.CoreCompileInputs.cache
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\obj\Debug\DirecLayer.dll
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\obj\Debug\DirecLayer.pdb
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\bin\Debug\ConverterLib.dll
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\bin\Debug\DataCipher.dll
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LAP-0173\Documents\GitHub\WebApiSirKarl\DirecLayer\obj\Debug\DirecLayer.csproj.CopyComplete
